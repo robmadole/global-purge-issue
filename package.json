@@ -1,0 +1,20 @@
+{
+  "name": "global-purge-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robmadole/global-purge-issue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robmadole/global-purge-issue/issues"
+  },
+  "homepage": "https://github.com/robmadole/global-purge-issue#readme"
+}
