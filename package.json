@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/robmadole/global-purge-issue/issues"
   },
-  "homepage": "https://github.com/robmadole/global-purge-issue#readme"
+  "homepage": "https://github.com/robmadole/global-purge-issue#readme",
+  "devDependencies": {
+    "@fly/fly": "^0.44.2",
+    "chai": "^4.2.0"
+  }
 }
